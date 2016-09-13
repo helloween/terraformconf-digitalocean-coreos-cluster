@@ -1,0 +1,1 @@
+# terraformconf-digitalocean-coreos-cluster
